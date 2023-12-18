@@ -15,6 +15,7 @@
 		C004163A2B2C59600066554C /* map_tUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00416392B2C59600066554C /* map_tUITests.swift */; };
 		C004163C2B2C59600066554C /* map_tUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C004163B2B2C59600066554C /* map_tUITestsLaunchTests.swift */; };
 		C00416492B2C5E4C0066554C /* BeantownButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00416482B2C5E4B0066554C /* BeantownButtons.swift */; };
+		C08BFFB32B2FECC100541A63 /* ItemInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C08BFFB22B2FECC100541A63 /* ItemInfoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		C00416392B2C59600066554C /* map_tUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = map_tUITests.swift; sourceTree = "<group>"; };
 		C004163B2B2C59600066554C /* map_tUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = map_tUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		C00416482B2C5E4B0066554C /* BeantownButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeantownButtons.swift; sourceTree = "<group>"; };
+		C08BFFB22B2FECC100541A63 /* ItemInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemInfoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				C00416202B2C595E0066554C /* ContentView.swift */,
 				C00416222B2C59600066554C /* Assets.xcassets */,
 				C00416242B2C59600066554C /* Preview Content */,
+				C08BFFB22B2FECC100541A63 /* ItemInfoView.swift */,
 			);
 			path = map_t;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 				C00416212B2C595E0066554C /* ContentView.swift in Sources */,
 				C00416492B2C5E4C0066554C /* BeantownButtons.swift in Sources */,
 				C004161F2B2C595E0066554C /* map_tApp.swift in Sources */,
+				C08BFFB32B2FECC100541A63 /* ItemInfoView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
